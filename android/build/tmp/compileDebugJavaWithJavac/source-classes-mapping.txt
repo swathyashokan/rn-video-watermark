@@ -1,0 +1,7 @@
+me/vyoo/BuildConfig.java
+ me.vyoo.BuildConfig
+com/vyoo/VideoWatermarkPackage.java
+ me.vyoo.VideoWatermarkPackage
+com/vyoo/VideoWatermarkModule.java
+ me.vyoo.VideoWatermarkModule
+ me.vyoo.VideoWatermarkModule$1

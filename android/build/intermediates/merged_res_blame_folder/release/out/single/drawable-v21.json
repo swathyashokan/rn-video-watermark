@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/swathy/Desktop/RICKKR_CODE_BASE/node_modules/rn-video-watermarker/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/swathy/.gradle/caches/transforms-2/files-2.1/90329a0fc3736ecbf8ca2767381ee6ac/appcompat-1.0.2/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/swathy/Desktop/RICKKR_CODE_BASE/node_modules/rn-video-watermarker/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/swathy/.gradle/caches/transforms-2/files-2.1/90329a0fc3736ecbf8ca2767381ee6ac/appcompat-1.0.2/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/swathy/Desktop/RICKKR_CODE_BASE/node_modules/rn-video-watermarker/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/swathy/.gradle/caches/transforms-2/files-2.1/d12939f62e5315edc18dd270d7da61bd/core-1.0.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/swathy/Desktop/RICKKR_CODE_BASE/node_modules/rn-video-watermarker/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/swathy/.gradle/caches/transforms-2/files-2.1/90329a0fc3736ecbf8ca2767381ee6ac/appcompat-1.0.2/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/swathy/Desktop/RICKKR_CODE_BASE/node_modules/rn-video-watermarker/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/swathy/.gradle/caches/transforms-2/files-2.1/90329a0fc3736ecbf8ca2767381ee6ac/appcompat-1.0.2/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/swathy/Desktop/RICKKR_CODE_BASE/node_modules/rn-video-watermarker/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/swathy/.gradle/caches/transforms-2/files-2.1/90329a0fc3736ecbf8ca2767381ee6ac/appcompat-1.0.2/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
