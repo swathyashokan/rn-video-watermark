@@ -1,13 +1,11 @@
-# react-native-video-watermarker
-
-### forked/cloned from https://github.com/sagark1510/react-native-video-watermark#1.0.2
+# rn-video-watermark
 
 ## Installation
-`npm install --save react-native-video-watermarker`
+`npm install --save rn-video-watermark`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-video-watermarker`
+`$ react-native link rn-video-watermark`
 
 ## iOS
 After linking `cd ios` and `pod install`
@@ -15,7 +13,7 @@ After linking `cd ios` and `pod install`
 ## Usage
 
 ```javascript
-import VideoWatermark from 'react-native-video-watermark';
+import VideoWatermark from 'rn-video-watermark';
 
 VideoWatermark.convert(videoUri, imgUri, watermarkPosition, destinationUri => {
     // use converted video here.
